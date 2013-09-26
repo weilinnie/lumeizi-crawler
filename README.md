@@ -13,10 +13,8 @@
 ##使用方法
 
 1. 让当前的环境中的 python 解释器是 2 版本的，而不是 python 3000
-2. 使用 pip 安装依赖的 python module：
-> pip install -r requirements.txt
-3. 运行 lu.py，开爬（lu）：
-> ./lu.py
+2. 使用 pip 安装依赖的 python module：pip install -r requirements.txt
+3. 运行 lu.py，开爬（lu）：./lu.py
 
 最后爬取的数据将会在 data 目录下保存好。
 
